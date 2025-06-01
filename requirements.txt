@@ -1,0 +1,8 @@
+python-gantt
+pandas
+jira
+python-dateutil
+matplotlib
+openpyxl
+plotly
+xlsxwriter
